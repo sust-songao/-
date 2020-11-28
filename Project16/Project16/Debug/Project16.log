@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/10/18 10:22:59。
+     1>项目“D:\C++\Project16\Project16\Project16.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\c语言\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\c++\project16\project16\源.cpp(8): error C2144: 语法错误:“double”的前面应有“}”
+     1>d:\c++\project16\project16\源.cpp(8): error C2144: 语法错误:“double”的前面应有“)”
+     1>d:\c++\project16\project16\源.cpp(8): error C2448: “main”: 函数样式初始值设定项类似函数定义
+     1>d:\c++\project16\project16\源.cpp(9): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“D:\C++\Project16\Project16\Project16.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.60
